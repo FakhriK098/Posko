@@ -4,7 +4,7 @@ This is a Posko Apps
 
 > **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
-# Step 2: You need generate Google API Key
+# Step 1: You need generate Google API Key
 
 First, you will need generate Google API Key [Google Cloud](https://console.cloud.google.com/project/_/google/maps-apis/credentials?utm_source=Docs_Credentials&hl=id&_gl=1*13ljw84*_ga*MzY3NjczNTE0Ny4xNzA2Nzk0NjI4*_ga_NRWSTWS78N*MTcxMTMxODc4MS4zLjEuMTcxMTMxODc4Ni4wLjAuMA..).
 
